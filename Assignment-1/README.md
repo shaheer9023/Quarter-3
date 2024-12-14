@@ -13,7 +13,7 @@ These are the conversations between you and the AI.
 ---
 
 ### 2. **Model**  
-This tells the system which AI version to use, like `gpt-4` or `gpt-3.5-turbo`. Different models have different abilities, and you choose based on your needs.
+This tells the system which AI version to use, like `Gemini Ultra` , `Gemini Pro` and `Gemini Nano`. Different models have different abilities, and you choose based on your needs.
 
 ---
 
